@@ -12,7 +12,7 @@
 
 ## Посилання на Figma Design Files та скріншоти (ДО і ПІСЛЯ правок)
 
-* **Figma File (View Access для викладача):** `[ВСТАВТЕ ПОСИЛАННЯ НА ВАШ FIGMA-ФАЙЛ ТУТ]`
+* **Figma File (View Access для викладача):** `(https://www.figma.com/design/aJ1vPM7Cig4MQZB6Ad0SVl/IT-Helpdesk---UX-UI-MVP?t=GPIQzaaOTqsOOqKk-1)`
 * **Локальні файли Figma у репозиторії:**
   * **ДО правок (F1 Before Review):** [`IT Helpdesk - UX_UI MVP.fig`](./IT%20Helpdesk%20-%20UX_UI%20MVP.fig) та повний знімок [`IT Helpdesk - UX_UI MVP.png`](./IT%20Helpdesk%20-%20UX_UI%20MVP.png)
   * **ПІСЛЯ правок (F2 After Review):** [`IT Helpdesk - UX_UI MVP Edited.fig`](./IT%20Helpdesk%20-%20UX_UI%20MVP%20Edited.fig) та повний знімок [`IT Helpdesk - UX_UI MVP Edited.png`](./IT%20Helpdesk%20-%20UX_UI%20MVP%20Edited.png)
