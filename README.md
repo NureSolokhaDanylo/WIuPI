@@ -10,9 +10,10 @@
 | **Долгополов Ярослав** | UX-архітектор та автор контрактів екранів | **Decision Log** (`D-01..D-08`), **G2** (`Screen Map`), **G3** (`Screen Contracts` + `Traceability` на 37 AC + тест-кейси `T-01..T-10`), **G4** (`Plan Review`) | **Контроль C** (перевірка самодостатності англомовного `Figma Brief v1.0`) |
 | **Зінченко Нікіта** | Інженер Figma-брифа та верифікатор макета | **G5** (`05_Figma_Brief_v1.0.md`), **F1 + Ручний резервний маршрут після ліміту** (генерація в Figma Agent, ручний compliance review та точкові правки в Figma) | **Контроль A** (звірка повноти `Input Pack` із вихідною специфікацією `requirements.md`) |
 
-## Посилання на Figma Design Files та скріншоти (ДО і ПІСЛЯ правок)
+## Посилання на Figma Design Files, відеодемонстрацію та скріншоти (ДО і ПІСЛЯ правок)
 
-* **Figma File (View Access для викладача):** `(https://www.figma.com/design/aJ1vPM7Cig4MQZB6Ad0SVl/IT-Helpdesk---UX-UI-MVP?t=GPIQzaaOTqsOOqKk-1)`
+* **Figma File (View Access):** [IT Helpdesk - UX/UI MVP (Figma)](https://www.figma.com/design/aJ1vPM7Cig4MQZB6Ad0SVl/IT-Helpdesk---UX-UI-MVP?t=GPIQzaaOTqsOOqKk-1)
+* **Відеозапис захисту / демонстрації (YouTube):** [Переглянути відео на YouTube](https://www.youtube.com/watch?v=PExLGBbTa7M)
 * **Локальні файли Figma у репозиторії:**
   * **ДО правок (F1 Before Review):** [`IT Helpdesk - UX_UI MVP.fig`](./IT%20Helpdesk%20-%20UX_UI%20MVP.fig) та повний знімок [`IT Helpdesk - UX_UI MVP.png`](./IT%20Helpdesk%20-%20UX_UI%20MVP.png)
   * **ПІСЛЯ правок (F2 After Review):** [`IT Helpdesk - UX_UI MVP Edited.fig`](./IT%20Helpdesk%20-%20UX_UI%20MVP%20Edited.fig) та повний знімок [`IT Helpdesk - UX_UI MVP Edited.png`](./IT%20Helpdesk%20-%20UX_UI%20MVP%20Edited.png)
